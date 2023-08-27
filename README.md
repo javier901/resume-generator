@@ -100,33 +100,3 @@ email, or any other method with the owners of this repository before making a ch
 * In case of changing the backend routes please submit an updated routes documentation for the same.
 * If there is an UI related change it would be great if you could attach a screenshot 
  with the resultant changes so it is easier to review for the maintainers 
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-
-## Contact
-
-- My Name - Dipto Chakrabarty
- 
-- You can contact me at diptochuck123@gmail.com
-
-- Project Link: [https://github.com/DiptoChakrabarty/website](https://github.com/DiptoChakrabarty/website)
-
-
-
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
